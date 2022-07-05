@@ -1,0 +1,7 @@
+{
+  "name": "Unblock Russia Payments",
+  "version": "1.0.0",
+  "description": "Убирает региональные ограничения в клиенте",
+  "author": "Nixea",
+  "license": "MIT"
+}
